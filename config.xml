@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cookiebanner</name>
+	<displayName><![CDATA[Cookie Banner]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[A cookie banner is a notice displayed on a website that informs visitors about the use of cookies on the site and often seeks their consent for their usage. ]]></description>
+	<author><![CDATA[Aroshiya]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
